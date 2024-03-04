@@ -73,6 +73,8 @@ $carro2=[
 
 
 $carros=[
-carro1,carro2,carro3];
+$carro1,
+  $carro2,
+  $carro3];
 
 echo_json_encode($carros);
