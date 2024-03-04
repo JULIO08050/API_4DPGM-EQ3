@@ -67,8 +67,9 @@ $carro2=[
 "Número_de_cilindros"=>"Rotor_y_estator"
 "Número_de_puertas"=>"4"
 "Número_de_asientos"=>"4"
-
-
+"País_de_origen"=>"Japón"
+"Peso_del_vehículo"=>"1420_kg"
+"Combustible"=>"
 
 
 
