@@ -3,21 +3,23 @@
 //primer carro
 $carro1=[
   "marca"=>"toyota",
-  "modelo"=>"",
-"color_de_pintura"=>"",
-
-
-  
-  
-
-  
-
-
-
-
-
-
-
+  "modelo"=>"corolla_2000",
+"color_de_pintura"=>"gris_metalico",
+"motor"=>1.8,
+"capacidad_combustible"=> 13.2,
+  "Velocidad"=>"225KM/H",
+  "10 velocidades"=true,
+  "llantas"=>"215/50",
+  "caballos de fuerza"=>125,
+"5 asientos"=>true,
+  "puertas"=> 4,
+  "precio"=>400000,
+"peso"=>1055,
+"urbano"=>"9,1 l/100 km",
+"extraurbano"=>"5,9 l/100 km"
+"longitud"=>"4.315 mm",
+"anchura"=>"1.690 mm",
+"4 cilindros"=>true,
 
 
 
