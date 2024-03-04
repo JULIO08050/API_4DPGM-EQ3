@@ -50,9 +50,20 @@ $carro2=[
 "Tanque_de_combustible"=>"66L",  
 "Capacidad_de_carga"=>"454kg",
 ];
-//carro3 
-  
 
+
+//carro3 
+  $carro3=[
+"Fabricante"=>"Mazda"
+"Modelo"=>"RX8"
+"Año_de_fabricación"=>"2002"
+"Tipo_de_carrocería"=>"Coupé_de_4puertas"
+"Precio_mínimo_actual"=>"5,999_Dólares"
+"Ubicación_del_motor"=>"Central_delantero_longitudinal"
+"Tracción"=>"Trasera"
+"Motores"=>"1.3_L_RENESIS
+"Tipo_de_motor"=>"Rotativo_Wankel"
+"
 
 
 
