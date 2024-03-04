@@ -68,3 +68,11 @@ $carro2=[
 "Número_de_puertas"=>"4"
 "Número_de_asientos"=>"4"
 
+
+
+
+
+$carros=[
+carro1,carro2,carro3];
+
+echo_json_encode($carros);
