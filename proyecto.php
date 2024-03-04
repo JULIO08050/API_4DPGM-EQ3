@@ -63,8 +63,8 @@ $carro2=[
 "Tracción"=>"Trasera"
 "Motores"=>"1.3_L_RENESIS
 "Tipo_de_motor"=>"Rotativo_Wankel"
-"
-
-
-
+"Velocidad_Máxima"=>"255_km/h"
+"Número_de_cilindros"=>"Rotor_y_estator"
+"Número_de_puertas"=>"4"
+"Número_de_asientos"=>"4"
 
