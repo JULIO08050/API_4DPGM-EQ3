@@ -54,23 +54,26 @@ $carro2=[
 
 //carro3 
   $carro3=[
-"Fabricante"=>"Mazda"
-"Modelo"=>"RX8"
-"Año_de_fabricación"=>"2002"
-"Tipo_de_carrocería"=>"Coupé_de_4puertas"
-"Precio_mínimo_actual"=>"5,999_Dólares"
-"Ubicación_del_motor"=>"Central_delantero_longitudinal"
-"Tracción"=>"Trasera"
-"Motores"=>"1.3_L_RENESIS
-"Tipo_de_motor"=>"Rotativo_Wankel"
-"Velocidad_Máxima"=>"255_km/h"
-"Número_de_cilindros"=>"Rotor_y_estator"
-"Número_de_puertas"=>"4"
-"Número_de_asientos"=>"4"
-"País_de_origen"=>"Japón"
-"Peso_del_vehículo"=>"1420_kg"
-"Combustible"=>"
-
+"Fabricante"=>"Mazda",
+"Modelo"=>"RX8",
+"Año_de_fabricación"=>"2002",
+"Tipo_de_carrocería"=>"Coupé_de_4puertas",
+"Precio_mínimo_actual"=>"5,999_Dólares",
+"Ubicación_del_motor"=>"Central_delantero_longitudinal",
+"Tracción"=>"Trasera",
+"Motores"=>"1.3_L_RENESIS",
+"Tipo_de_motor"=>"Rotativo_Wankel",
+"Velocidad_Máxima"=>"255_km/h",
+"Número_de_cilindros"=>"Rotor_y_estator",
+"Número_de_puertas"=>"4",
+"Número_de_asientos"=>"4",
+"País_de_origen"=>"Japón",
+"Peso_del_vehículo"=>"1420_kg",
+"Combustible"=>"Gasolina",
+"Tipo_de_frenos_delanteros"Tipo de frenos traserosDiscos_ventilados",
+"Tipo_de_frenos_traseros"=>"Discos_ventilados",
+"Consumo_de_combustible_urbano"=>"19,9_a_23,9_L/100km",
+"Neumáticos_delanteros_Traseros"=>"225/40_R19_225/40:R19",
 
 
 $carros=[
