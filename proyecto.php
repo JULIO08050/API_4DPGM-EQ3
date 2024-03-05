@@ -70,7 +70,7 @@ $carro2=[
 "País_de_origen"=>"Japón",
 "Peso_del_vehículo"=>"1420_kg",
 "Combustible"=>"Gasolina",
-"Tipo_de_frenos_delanteros"Tipo de frenos traserosDiscos_ventilados",
+"Tipo_de_frenos_delanteros"Tipo_de_frenos_traserosDiscos_ventilados",
 "Tipo_de_frenos_traseros"=>"Discos_ventilados",
 "Consumo_de_combustible_urbano"=>"19,9_a_23,9_L/100km",
 "Neumáticos_delanteros_Traseros"=>"225/40_R19_225/40:R19",
