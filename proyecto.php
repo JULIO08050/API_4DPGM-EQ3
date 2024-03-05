@@ -74,11 +74,12 @@ $carro2=[
 "Tipo_de_frenos_traseros"=>"Discos_ventilados",
 "Consumo_de_combustible_urbano"=>"19,9_a_23,9_L/100km",
 "Neumáticos_delanteros_Traseros"=>"225/40_R19_225/40:R19",
-
+    ]
 
 $carros=[
 $carro1,
   $carro2,
-  $carro3];
+  $carro3 
+    ];
 
 echo_json_encode($carros);
