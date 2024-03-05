@@ -1,5 +1,6 @@
 <?php
 //AGREGAMOS NUESTROS OBJETOS EN ESTE CASO SON CARROS
+//Hernandez lopez julio cesar
 //primer carro
 $carro1=[
   "marca"=>"toyota",
@@ -20,9 +21,12 @@ $carro1=[
 "longitud"=>"4.315 mm",
 "anchura"=>"1.690 mm",
 "4 cilindros"=>true,
+"CARROCERIA"=>"sedan"
+"aceleracion_de_0_a_100km"=>"12.5seg"
 
-
+  
 ];  
+//Esparza orozco angel misael
 //SEGUNDO CARRO
 $carro2=[
 
@@ -49,7 +53,7 @@ $carro2=[
 "Capacidad_de_carga"=>"454kg",
 ];
 
-
+//Camacho sanchez angel leonardo
 //carro3 
   $carro3=[
 "Fabricante"=>"Mazda",
@@ -72,7 +76,7 @@ $carro2=[
 "Tipo_de_frenos_traseros"=>"Discos_ventilados",
 "Consumo_de_combustible_urbano"=>"19,9_a_23,9_L/100km",
 "Neumáticos_delanteros_Traseros"=>"225/40_R19_225/40:R19",
-    ]
+    ];
     
 $carros=[
 $carro1,
@@ -81,3 +85,4 @@ $carro1,
     ];
 
 echo_json_encode($carros);
+
