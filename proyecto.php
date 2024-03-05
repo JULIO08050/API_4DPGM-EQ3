@@ -22,8 +22,6 @@ $carro1=[
 "4 cilindros"=>true,
 
 
-
-
 ];  
 //SEGUNDO CARRO
 $carro2=[
@@ -32,22 +30,22 @@ $carro2=[
 "modelo"=>"WRANGLER_Rubicon_2024",
 "color_de_pintura"=>"negro_mate",
 "Potencia"=>"285/6400 hp/rpm",
-"Cilindros"=>"6_en_V",
-"Válvulas"=>"24",
+"Cilindros"=>6,
+"Válvulas"=>24,
 "Rendimiento_en_ciudad"=>"6.6km/l",
 "Rendimiento_en_ruta"=>"10.4km/l",
 "Rendimiento_mixto"=>"7.9km/l",
 "Motor-Tracción"=>"delantero-integral",
-"Transmisión"=>"automática_8_velocidades",
+"Transmisión"=>"8_velocidades",
 "Neumáticos"=>"255/75/R17",
-"Suspensión_delantera"=>"Eje_rígido_con_resortes_helicoidales,brazos_paralelos,barra_estabilizadora_y_amortiguadores_de_trabajo_pesado",
+  "precio"=>1359900,
 "Dirección_asistida"=>"electro-hidráulica",
 "Largo"=>"4237mm", 
 "Ancho_sin_espejos"=>"1875mm",
 "Alto"=>"1868mm",
 "Distancia_entre_ejes"=>"2460mm",
 "Peso"=>"1794kg",
-"Tanque_de_combustible"=>"66L",  
+"Tanque_de_combustible"=>66.5,  
 "Capacidad_de_carga"=>"454kg",
 ];
 
@@ -56,17 +54,17 @@ $carro2=[
   $carro3=[
 "Fabricante"=>"Mazda",
 "Modelo"=>"RX8",
-"Año_de_fabricación"=>"2002",
+"Año_de_fabricación"=>2002,
 "Tipo_de_carrocería"=>"Coupé_de_4puertas",
 "Precio_mínimo_actual"=>"5,999_Dólares",
 "Ubicación_del_motor"=>"Central_delantero_longitudinal",
 "Tracción"=>"Trasera",
-"Motores"=>"1.3_L_RENESIS",
+"Motores"=>1.3,
 "Tipo_de_motor"=>"Rotativo_Wankel",
 "Velocidad_Máxima"=>"255_km/h",
 "Número_de_cilindros"=>"Rotor_y_estator",
-"Número_de_puertas"=>"4",
-"Número_de_asientos"=>"4",
+"Número_de_puertas"=>4,
+"Número_de_asientos"=>4,
 "País_de_origen"=>"Japón",
 "Peso_del_vehículo"=>"1420_kg",
 "Combustible"=>"Gasolina",
@@ -75,7 +73,7 @@ $carro2=[
 "Consumo_de_combustible_urbano"=>"19,9_a_23,9_L/100km",
 "Neumáticos_delanteros_Traseros"=>"225/40_R19_225/40:R19",
     ]
-
+    
 $carros=[
 $carro1,
   $carro2,
